@@ -1,0 +1,39 @@
+# Python environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Secrets and environment variables
+.env
+.env.*
+!.env.example
+
+# Editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Raw datasets
+data/raw/*
+!data/raw/.gitkeep
+
+# Generated model artifacts
+models/*
+!models/.gitkeep
+
+# Generated outputs
+outputs/*
+!outputs/README.md
+!outputs/figures/
+outputs/figures/*
+!outputs/figures/attack_distribution.png
+
+# Temporary files
+*.log
+*.tmp
