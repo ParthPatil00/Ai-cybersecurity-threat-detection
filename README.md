@@ -4,7 +4,17 @@ An AI-powered cybersecurity prototype that analyzes network traffic records, ide
 
 ## Dashboard Preview
 
+### Overview
 ![AI Cybersecurity Threat Detection Dashboard](screenshots/dashboard-overview.png)
+
+### Detection Records
+![Detection Records](screenshots/detection-records.png)
+
+### Security Alerts
+![Security Alerts](screenshots/security-alerts.png)
+
+### Visual Reports
+![Visual Reports](screenshots/visual-reports.png)
 
 > The dashboard displays results from dataset-based detection and simulation. It is a defensive research prototype, not a live network monitoring system.
 
